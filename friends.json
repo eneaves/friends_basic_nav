@@ -3,17 +3,20 @@
         {
             "nombre": "Peter Parker",
             "edad": 16,
-            "foto": "https://www.informador.mx/entretenimiento/Tobey-Maguire-Que-ha-sido-de-su-vida-despues-de-interpretar-a-Spider-Man-20221024-0102.html"
+            "foto": "https://www.informador.mx/entretenimiento/Tobey-Maguire-Que-ha-sido-de-su-vida-despues-de-interpretar-a-Spider-Man-20221024-0102.html",
+            "descripcion": "Peter Parker, also known as Spider-Man, is a young superhero with spider-like abilities, which he uses to fight crime in New York City while balancing his life as a high school student."
         },
         {
             "nombre": "Clark Kent",
-            "edad": 2,
-            "foto": "https://smallville.fandom.com/wiki/Clark_Kent"
+            "edad": 24,
+            "foto": "https://smallville.fandom.com/wiki/Clark_Kent",
+            "descripcion": "Clark Kent is the secret identity of Superman, an alien superhero with extraordinary powers who protects Earth, working as a journalist at the Daily Planet."
         },
         {
             "nombre": "Bruce Wayne",
             "edad": 26,
-            "foto": "https://www.20minutos.es/noticia/4765797/0/robert-pattinson-batman-2022/"
+            "foto": "https://www.20minutos.es/noticia/4765797/0/robert-pattinson-batman-2022/",
+            "descripcion": "Bruce Wayne, also known as Batman, is a billionaire orphan who fights crime in Gotham City using his intellect, combat skills, and a vast array of advanced technology."
         }
     ]
 }
