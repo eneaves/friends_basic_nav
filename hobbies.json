@@ -1,0 +1,19 @@
+{
+    "hobbies": [
+        {
+            "hobbie": "Boxing",
+            "foto": "https://www.skysports.com/boxing/news/12183/12712654/olympic-boxing-at-maximum-risk-the-clock-is-ticking-iba-doesnt-get-it-says-usa-boxing",
+            "descripcion": "Boxing is a combat sport where two participants engage in a contest of strength, reflexes, and endurance by throwing punches at each other with gloved hands."
+        },
+        {
+            "hobbie": "Watch Movies",
+            "foto": "https://www.ign.com/articles/best-free-movie-sites-and-apps",
+            "descripcion": "Watching movies is a popular leisure activity where individuals enjoy various genres of films, experiencing stories, characters, and emotions through the screen."
+        },
+        {
+            "hobbie": "Rap",
+            "foto": "https://es.wired.com/articulos/tecnologia-transformando-disputas-rap-hip-hop",
+            "descripcion": "Rap is a musical form of vocal delivery that incorporates rhyme, rhythmic speech, and street vernacular, often performed over a beat or instrumental track."
+        }
+    ]
+}
