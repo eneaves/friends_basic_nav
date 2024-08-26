@@ -1,0 +1,19 @@
+{
+    "amigos": [
+        {
+            "nombre": "Peter Parker",
+            "edad": 16,
+            "foto": "https://www.informador.mx/entretenimiento/Tobey-Maguire-Que-ha-sido-de-su-vida-despues-de-interpretar-a-Spider-Man-20221024-0102.html"
+        },
+        {
+            "nombre": "Clark Kent",
+            "edad": 2,
+            "foto": "https://smallville.fandom.com/wiki/Clark_Kent"
+        },
+        {
+            "nombre": "Bruce Wayne",
+            "edad": 26,
+            "foto": "https://www.20minutos.es/noticia/4765797/0/robert-pattinson-batman-2022/"
+        }
+    ]
+}
